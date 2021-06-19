@@ -1,0 +1,9 @@
+body{
+    background-color:black;
+}
+#time{
+    text-align: center;
+    font-size: 100px;
+    color:white;
+    margin-top:15%;
+}
